@@ -82,4 +82,4 @@
 
 	``` 
 	 
-8. После запуска тестов, проверить результат передачи логов в разделе [LAUNCHES](http://localhost:8080/ui/#pava14_personal/launches/latest)
+8. После запуска тестов, проверить результат передачи логов в разделе Reportportal [LAUNCHES](http://localhost:8080/ui/#pava14_personal/launches/latest)
