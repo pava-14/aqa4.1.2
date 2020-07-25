@@ -46,4 +46,5 @@ out/
 !**/artifacts/app-card-delivery.jar
 
 ### Data ###
-data/
+!/src/**data/
+
